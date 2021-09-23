@@ -23,7 +23,9 @@ Bachelor's degree in Computer Engineering from University of Vale do Itajaí (UN
 
 
 ## Projects: 
-* **Análise dos Dados do Airbnb para Edinburgh - Scotland:** 
+* **Análise dos Dados do Airbnb para Edinburgh - Scotland:** [![](https://img.shields.io/badge/Link+-blue.svg)](https://github.com/jonascesconetto/data_science/blob/main/Analisando_os_Dados_do_Airbnb_(Edinburgh_Scotland).ipynb) 
+
+
 <!-- * **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY -->
 <!-- * **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH -->
 ---
