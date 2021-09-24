@@ -9,7 +9,7 @@
 
 ## Projetos: 
 Projetos em Jupyter Notebook.
-* **Análise dos Dados do Airbnb para Edinburgh - Scotland:** [![](https://img.shields.io/badge/Link-blue.svg)](https://github.com/jonascesconetto/data_science/blob/main/Analisando_os_Dados_do_Airbnb_(Edinburgh_Scotland).ipynb) 
+* **Análise dos Dados do Airbnb para Edinburgh - Scotland:** [Link](https://github.com/jonascesconetto/data_science/blob/main/Analisando_os_Dados_do_Airbnb_(Edinburgh_Scotland).ipynb)
 
 ## Sobre mim:
 
@@ -19,4 +19,4 @@ Analista de dados na Cartesian Engenharia. Com experiência em Análise de Dados
 
 * Graduação em Engenharia da Computação pela Universidade do Vale do Itajaí (UNIVALI).
 
-<sub>Bachelor's degree in Computer Engineering from University of Vale do Itajaí (UNIVALI).</sub>
+* <sub>Bachelor's degree in Computer Engineering from University of Vale do Itajaí (UNIVALI).</sub>
