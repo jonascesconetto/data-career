@@ -17,7 +17,7 @@ Analista de dados na Cartesian Engenharia. Com experiência em Análise de Dados
 
 * Graduação em Engenharia da Computação pela Universidade do Vale do Itajaí (UNIVALI).
 
-<sub>Data Analyst at Cartesian Engenharia. Experience in Civil Construction Data Analysis, transforming ERP data to assist companies in decision making in the face of strategic management challenges. </sub>
+<!-- Data Analyst at Cartesian Engenharia. Experience in Civil Construction Data Analysis, transforming ERP data to assist companies in decision making in the face of strategic management challenges. -->
 
-* <sub>Bachelor's degree in Computer Engineering from University of Vale do Itajaí (UNIVALI).</sub>
+<!-- * Bachelor's degree in Computer Engineering from University of Vale do Itajaí (UNIVALI). -->
 
