@@ -8,12 +8,14 @@
 </p> -->
 
 ## Projetos: 
-Projetos em Jupyter Notebook.
-* **Análise Exploratória de Dados do Airbnb - Edimburgo, Escócia:** [Link](https://github.com/jonascesconetto/data_science/blob/main/Analisando_os_Dados_do_Airbnb_(Edinburgh_Scotland).ipynb)
+### Análise Exploratória de Dados
+* [**Airbnb - Edimburgo, Escócia** ](https://github.com/jonascesconetto/data_science/blob/main/Analisando_os_Dados_do_Airbnb_(Edinburgh_Scotland).ipynb)
+
+* [**Recursos Humanos** ](https://github.com/jonascesconetto/human-resource-analytics)
 
 ## Sobre mim:
 
-Analista de dados na Cartesian Engenharia. Com experiência em Análise de Dados da construção civil, transformando dados de ERP para auxiliar empresas na tomada de decisão diante dos desafios da gestão estratégica.
+Analista de dados na Cartesian Engenharia. Com experiência em transformação de dados, com o objetivo de auxiliar empresas na tomada de decisão diante dos desafios da gestão estratégica.
 
 * Graduação em Engenharia da Computação pela Universidade do Vale do Itajaí (UNIVALI).
 
