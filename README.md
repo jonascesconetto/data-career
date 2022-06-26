@@ -5,5 +5,9 @@
 ### Análise Exploratória de Dados
 * [**Airbnb - Edimburgo, Escócia** ](https://github.com/jonascesconetto/airbnb-edimburgo-escocia/blob/main/Analisando_os_Dados_do_Airbnb_(Edinburgh_Scotland).ipynb)
 
+### Data Engineering
+* [**First steps with Apache Spark** ](https://github.com/jonascesconetto/first-steps-with-apache-spark)
+<!-- * [**First steps with Apache Airflow** ]() -->
+
 ### Bootcamps
 * [**Analise de dados do setor de Recursos Humanos** ](https://github.com/jonascesconetto/human-resource-analytics)
