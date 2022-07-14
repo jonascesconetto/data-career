@@ -7,7 +7,8 @@
 
 ### Data Engineering
 * [**First steps with Apache Spark** ](https://github.com/jonascesconetto/first-steps-with-apache-spark)
-<!-- * [**First steps with Apache Airflow** ]() -->
+* [**First steps with Apache Airflow** ](https://github.com/jonascesconetto/datapipeline-etl)
+* [**Scheduler do Apache Airflow** ](https://github.com/jonascesconetto/airflow-scheduler)
 
 ### Bootcamps
 * [**Analise de dados do setor de Recursos Humanos** ](https://github.com/jonascesconetto/human-resource-analytics)
